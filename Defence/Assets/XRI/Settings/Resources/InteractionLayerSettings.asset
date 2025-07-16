@@ -14,8 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LayerNames:
   - Default
-  - UI
-  - Arrow
   - 
   - 
   - 
@@ -44,4 +42,6 @@ MonoBehaviour:
   - 
   - 
   - 
-  - Teleport
+  - 
+  - 
+  - 
